@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8747" started-at="2020-06-15T23:21:19 IST" finished-at="2020-06-15T23:21:28 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8747" started-at="2020-06-15T23:21:19 IST" finished-at="2020-06-15T23:21:28 IST">
+      <class name="Prathima.ExtentReports.ExtentReportDemo">
+        <test-method status="PASS" signature="config()[pri:0, instance:Prathima.ExtentReports.ExtentReportDemo@26aa12dd]" name="config" is-config="true" duration-ms="104" started-at="2020-06-15T23:21:19 IST" finished-at="2020-06-15T23:21:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method status="PASS" signature="initialDemo()[pri:0, instance:Prathima.ExtentReports.ExtentReportDemo@26aa12dd]" name="initialDemo" duration-ms="8624" started-at="2020-06-15T23:21:20 IST" finished-at="2020-06-15T23:21:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialDemo -->
+      </class> <!-- Prathima.ExtentReports.ExtentReportDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
